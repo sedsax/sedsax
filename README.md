@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobil
 - 🌱 I’m currently learning Flutter
 
-- 👉 Flutter, Kotlin, C, C++, Python
+- 👉 Flutter, Kotlin, C, C++
 
 <!---
 sedsax/sedsax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
