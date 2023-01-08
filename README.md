@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seda
-- 👀 I’m interested in mobil
+- 👀 I’m interested in mobil and artificial intelligence
 - 🌱 I’m currently learning Flutter
 
 - 👉 Flutter, Kotlin, C, C++
