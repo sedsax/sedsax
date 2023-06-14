@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Seda
+- 🎉 I'm energetic, curious and positive.
 - 👀 I’m interested in mobil 
 - 🌱 I’m currently learning Flutter
 
