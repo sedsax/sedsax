@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Seda
-- 🎉 I'm energetic, curious and positive.
-- 👀 I’m interested in mobil 
+- 👀 I’m interested in mobile 
 - 🌱 I’m currently learning Flutter
-
-- 👉 Flutter, Kotlin, C, C++
 
 <!---
 sedsax/sedsax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
